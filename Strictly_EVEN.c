@@ -6,7 +6,7 @@ int main()
     int a[n],i,c=0,s=0;
     for(i=0;i<n;i++)
     {
-        scanf("%d",&a[i]);
+   scanf("%d",&a[i]);
     }
     for(i=0;i<n;i++)
     {
@@ -24,7 +24,7 @@ int main()
     }
     if(s==c)
     {
-        printf("True");
+       printf("True"); 
     }
     else
     {
